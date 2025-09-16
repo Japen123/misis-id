@@ -14,7 +14,7 @@
 ## Установка
 
 ```bash
-pip install misis-id
+pip install git+https://github.com/s1rne/misis-id
 ```
 
 ## Быстрый старт
